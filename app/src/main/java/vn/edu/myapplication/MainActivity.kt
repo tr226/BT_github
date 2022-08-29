@@ -13,4 +13,7 @@ class MainActivity : AppCompatActivity() {
     override fun onRestart() {
         super.onRestart()
     }
+     override fun onStart() {
+        super.onRestart()
+    }
 }
